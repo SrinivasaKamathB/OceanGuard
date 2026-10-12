@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: oceanguard
+    runtime: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
