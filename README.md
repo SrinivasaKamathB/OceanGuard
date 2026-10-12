@@ -45,23 +45,12 @@ Illegal bilge dumping, unmonitored crude oil spills, and plastic accumulation th
 
 ---
 
-## 🤝 Partners & Collaborators
+## 👥 Team & Contributors
 
-OceanGuard is developed in collaboration with research, academic, and maritime defense partners:
-
-| Partner / Organization | Role & Contribution | Contact / Link |
-| :--- | :--- | :--- |
-| **Partner Name / Agency 1** | Maritime Defense & AIS Transponder Feed Validation | [Profile / Website](#) |
-| **Partner Name / Institution 2** | Marine Environmental Science & Sanctuary Impact Modeling | [Profile / Website](#) |
-| **Partner Name / Tech Partner 3** | Edge Sensor Mesh & Buoy Telemetry Hardware | [Profile / Website](#) |
-
----
-
-## 👥 Core Team
-
-- **Lead Architect & Developer**: [Srinivasa Kamath B](https://github.com/SrinivasaKamathB) — System Architecture, Security Hardening & Interactive Engine Development
-- **Collaborator / Partner**: [Partner Name](https://github.com/) — Role & Specialization
-- **Collaborator / Partner**: [Partner Name](https://github.com/) — Role & Specialization
+- **Team Lead**: [Shreesha Anand Pujar](https://github.com/ShreeshaAnandPujar)
+- [Srinivasa Kamath B](https://github.com/SrinivasaKamathB)
+- [Ashwitha Ramesh](https://github.com/Ashwitha-Ramesh)
+- [Harshitha Raghu](https://github.com/Harshitha-Raghu11)
 
 ---
 
